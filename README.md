@@ -1,1 +1,1 @@
-# My-learning-in-c
+repositorio para colocar meus estudos na linguagem em C
